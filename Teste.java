@@ -11,4 +11,11 @@ System.out.println("Exemplo de teste de uso do git");
 	public static void foo(){
 		//todo 3
 	}
+	
+	public static void foo1(){
+		//todo 3
+	}
+
 }
+
+
