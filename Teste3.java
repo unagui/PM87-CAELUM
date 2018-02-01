@@ -10,7 +10,7 @@ public class Teste3{
 	}
 	
 	public static void foo(){
-		//todo 4
+		//todo 3
 	}
 
 }
