@@ -5,12 +5,13 @@ public class Teste3{
 		System.out.println("Exemplo segundo ");
 	}
 
+	public static void foo(){
+		//todo
+	}
+
 	public static String retornaHello(){
 		return "Hello Teste";
 	}
 	
-	public static void foo(){
-		//todo
-	}
 
 }
