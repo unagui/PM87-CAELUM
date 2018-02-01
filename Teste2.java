@@ -8,12 +8,13 @@ public class Teste2{
 	public static String retornaHello(){
 		return "Hello Teste";
 	}
+
+    public static void foo(){
+		//todo
+	}
 	
 	public static String retornaHi(){
 	}
 	
-    public static void foo(){
-		//todo 3 
-	}
 
 }
