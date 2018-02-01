@@ -8,4 +8,9 @@ public class Teste3{
 	public static String retornaHello(){
 		return "Hello Teste";
 	}
+	
+	public static void foo(){
+		
+	}
+
 }
