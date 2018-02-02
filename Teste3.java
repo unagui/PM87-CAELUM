@@ -14,5 +14,8 @@ public class Teste3{
 	}
 	
 	
+	public static void bla(){
+		//todo
+	}
 
 }

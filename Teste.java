@@ -12,4 +12,11 @@ System.out.println("Exemplo de teste de uso do git");
 		return "Hello Teste";
 	}
 	
+	public static void novo(){
+		//todo
+	}
+	
+	public static void bla(){
+		//todo
+	}
 }

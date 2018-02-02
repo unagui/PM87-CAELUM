@@ -17,4 +17,11 @@ public class Teste2{
 		return "Hello Teste";
 	}
 	
+	public static void novo(){
+		//todo
+	}
+	
+	public static void bla(){
+		//todo
+	}
 }
