@@ -19,4 +19,9 @@ System.out.println("Exemplo de teste de uso do git");
 	public static void bla(){
 		//todo
 	}
+	
+	
+	public static void outraPalavra(){
+		//todo
+	}
 }
