@@ -16,4 +16,7 @@ System.out.println("Exemplo de teste de uso do git");
 		//todo
 	}
 	
+	public static void segundoNovo(){
+		//todo
+	}
 }
