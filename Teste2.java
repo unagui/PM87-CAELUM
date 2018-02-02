@@ -19,4 +19,8 @@ public class Teste2{
 	public static void novo(){
 		//todo
 	}
+	
+	public static void segundoNovo(){
+		//todo
+	}
 }
