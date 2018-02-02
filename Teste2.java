@@ -13,14 +13,15 @@ public class Teste2{
 		//todo
 	}
 	
-	public static String retornaHi(){
+	public static String work(){
+		return "Hello Teste";
 	}
 	
 	public static void novo(){
 		//todo
 	}
 	
-	public static void segundoNovo(){
+	public static void bla(){
 		//todo
 	}
 }
