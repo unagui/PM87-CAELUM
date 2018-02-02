@@ -16,5 +16,7 @@ public class Teste2{
 	public static String retornaHi(){
 	}
 	
-
+	public static void novo(){
+		//todo
+	}
 }
