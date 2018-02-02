@@ -13,5 +13,8 @@ public class Teste3{
 		return "Hello Teste";
 	}
 	
+	public static void novo(){
+		//todo
+	}
 
 }
