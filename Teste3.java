@@ -9,16 +9,10 @@ public class Teste3{
 		//todo
 	}
 
-	public static String retornaHello(){
+	public static String work(){
 		return "Hello Teste";
 	}
 	
-	public static void novo(){
-		//todo
-	}
 	
-	public static void segundoNovo(){
-		//todo
-	}
 
 }
